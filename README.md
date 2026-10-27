@@ -1,7 +1,7 @@
 # Hola, mi nombre es Lucas Aguilera 👋
 
 ## Sobre mí
-- 👀 Soy estudiante de Ingeniería en Sistemas de la Información y, a su vez, desarrollador freelance.
+- 👀 Soy estudiante de Ingeniería en Sistemas de la Información y, a su vez, desarrollador en Ministerio de desarrollo social - San Miguel De Tucumán.
 - 🌱 Actualmente estoy aprendiendo sobre desarrollo web avanzado
 - 💞️ Estoy buscando colaborar en proyectos tecnológicos
 - 📫 Puedes contactarme a través de mi correo electrónico: lucasaguilera0506@gmail.com o en LinkedIn: [Lucas Aguilera](www.linkedin.com/in/lucas-aguilera05).
